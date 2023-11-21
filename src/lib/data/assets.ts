@@ -72,7 +72,8 @@ const Assets = {
 	Ruvy: a('ruvy.svg'),
 	Postcss: a('postcss.svg'),
 	Valbnb: a('valbnb.png'),
-	Eggsy: a('eggsy.png')
+	Eggsy: a('eggsy.png'),
+	MusicLovers: a('musiclovers.png')
 };
 
 export default Assets;

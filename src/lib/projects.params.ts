@@ -11,7 +11,7 @@ const MY_PROJECTS: Array<Project> = [
 		shortDescription:
 			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore non dolores voluptatibus vitae praesentium aperiam, iure laboriosam repellendus sunt explicabo pariatur totam enim, nihil animi quisquam. Sit vero quod laborum!',
 		links: [{ to: 'https://music-lovers-docker.onrender.com', label: 'Music Lovers' }],
-		logo: Assets.Python,
+		logo: Assets.MusicLovers,
 		name: 'Music Lovers',
 		period: {
 			from: new Date()
