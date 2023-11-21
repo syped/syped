@@ -41,7 +41,7 @@ const MY_PROJECTS: Array<Project> = [
 		shortDescription:
 			'A Vercel-like developer portfolio website template made with Typescript and SvelteKit.',
 		links: [{ to: 'https://eggsy.onrender.com', label: 'Eggsy' }],
-		logo: Assets.ReactJs,
+		logo: Assets.Eggsy,
 		name: 'Eggsy',
 		period: {
 			from: new Date()
