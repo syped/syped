@@ -64,13 +64,6 @@ const MY_SKILLS = [
 		name: 'Express'
 	}),
 	s({
-		slug: 'flask',
-		color: 'cyan',
-		description: svelte,
-		logo: Assets.Flask,
-		name: 'Flask'
-	}),
-	s({
 		slug: 'node',
 		color: 'green',
 		description: svelte,
