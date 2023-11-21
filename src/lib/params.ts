@@ -62,7 +62,7 @@ export const HOME: HomePageParams = {
 		// },
 		{
 			platform: Platform.Email,
-			link: 'mailto:robertly53@gmail.com'
+			link: 'robertly53@gmail.com'
 		}
 		// {
 		// 	platform: Platform.Youtube,
