@@ -45,7 +45,7 @@ export const HOME: HomePageParams = {
 	title: 'Home',
 	name: 'Robert',
 	lastName: 'Ly',
-	description: 'test',
+	description: 'A young and professional software engineer with a passion for greatness.',
 	links: [
 		{ platform: Platform.GitHub, link: 'https://github.com/syped' },
 		{
