@@ -77,7 +77,7 @@ const MY_PROJECTS: Array<Project> = [
 	},
 	{
 		slug: 'syped-portfolio-valbnb',
-		color: '#B053EF',
+		color: '#FF0000',
 		description:
 			'Lorem ipsum dolor sit amet consectetur adipisicing elit. Tempore non dolores voluptatibus vitae praesentium aperiam, iure laboriosam repellendus sunt explicabo pariatur totam enim, nihil animi quisquam. Sit vero quod laborum!',
 		shortDescription:
