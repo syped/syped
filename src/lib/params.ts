@@ -45,7 +45,8 @@ export const HOME: HomePageParams = {
 	title: 'Home',
 	name: 'Robert',
 	lastName: 'Ly',
-	description: 'A young and professional software engineer with a passion for greatness.',
+	description:
+		'A young and professional software engineer with a passion for greatness. I’m a full stack software engineer that grew up in New Jersey and have a background in the automotive technical field. As a person who spent my life around computers I found a career path where I can challenge my current abilities and continue to express my love of learning new technologies. I always tend to go out of my way to tackle difficult challenges and make sure the result of my work is perfect. As a hobby I enjoy spending lots of time around my friends, I am always open to meeting new people and getting to know others (especially if you own dogs). ',
 	links: [
 		{ platform: Platform.GitHub, link: 'https://github.com/syped' },
 		{
