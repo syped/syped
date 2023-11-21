@@ -16,7 +16,7 @@ const MY_PROJECTS: Array<Project> = [
 		period: {
 			from: new Date()
 		},
-		skills: getSkills('python', 'flask', 'reactjs', 'aws'),
+		skills: getSkills('py', 'flask', 'reactjs', 'aws'),
 		type: 'Music Website',
 		screenshots: [
 			{
